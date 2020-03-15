@@ -1,0 +1,11 @@
+.Log {
+  width: 30vw;
+  box-shadow: 0px 0px 5px #0000004f;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  border-radius: 5px;
+  margin: 10px;
+  background: white;
+
+    height: 300px;
+}

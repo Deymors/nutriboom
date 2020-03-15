@@ -1,0 +1,11 @@
+.LogEntry {
+    border: 1px solid #e1e3ff;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    background: #eeeef5;
+}
+
+.LogEntry>h3 {
+    font-weight: 100;
+}
