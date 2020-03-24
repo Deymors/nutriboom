@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d54dd913.chunk.css",
+    "main.js": "/static/js/main.6a402e6e.chunk.js",
+    "main.js.map": "/static/js/main.6a402e6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76236278.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76236278.js.map",
+    "static/js/2.fcf611a7.chunk.js": "/static/js/2.fcf611a7.chunk.js",
+    "static/js/2.fcf611a7.chunk.js.map": "/static/js/2.fcf611a7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.481f8d1d71e6fdb4e94f66b3a8b8122f.js": "/precache-manifest.481f8d1d71e6fdb4e94f66b3a8b8122f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d54dd913.chunk.css.map": "/static/css/main.d54dd913.chunk.css.map",
+    "static/js/2.fcf611a7.chunk.js.LICENSE.txt": "/static/js/2.fcf611a7.chunk.js.LICENSE.txt",
+    "static/media/MapContainer.css": "/static/media/undraw_bear_market_ania.2ffc3c72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76236278.js",
+    "static/js/2.fcf611a7.chunk.js",
+    "static/css/main.d54dd913.chunk.css",
+    "static/js/main.6a402e6e.chunk.js"
+  ]
+}

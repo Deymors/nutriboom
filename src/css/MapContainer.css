@@ -1,0 +1,8 @@
+
+.MapContainer{
+    background-image: url("undraw_bear_market_ania.png");
+    width:30vw;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+}
